@@ -20,7 +20,7 @@ const perguntas = [
                     "Foi atrás de vídeos, artigos e mais informaçõe sobre como utilizar essa tecnologia."
                 ]
             }
-        ]        alternativas: [
+        ]        alternativas: [uhuhuy
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
                 afirmacao: ["Conseguiu utilizar a IA para buscar informações úteis.",
